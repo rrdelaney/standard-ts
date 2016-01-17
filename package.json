@@ -1,0 +1,31 @@
+{
+  "name": "standard-ts",
+  "version": "0.0.0",
+  "description": "TypeScript Standard Style",
+  "main": "index.js",
+  "typings": "lib/standard.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrdelaney/standard-ts.git"
+  },
+  "keywords": [
+    "ts",
+    "standard"
+  ],
+  "author": "Ryan Delaney <rrdelaney@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rrdelaney/standard-ts/issues"
+  },
+  "homepage": "https://github.com/rrdelaney/standard-ts#readme",
+  "dependencies": {
+    "tslint": "^3.2.1"
+  },
+  "devDependencies": {
+    "tsd": "^0.6.5",
+    "typescript": "^1.7.5"
+  }
+}
